@@ -8,3 +8,4 @@ tutujinting. portfolio
 替换素材：将新图片放入 assets/，然后修改 index.html 中对应图片路径；项目卡片在 Selected Works 区域，每个 article 的 data-title、data-desc、data-img、data-cat 控制项目标题、介绍、封面和分类。视频放在 media/，并在卡片添加 data-video="media/文件名.mp4"。
 
 隐私：未上传原始简历 PDF，也未展示简历中的手机号。联系邮箱来自简历。
+Refresh GitHub Pages deployment
